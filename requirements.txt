@@ -1,1 +1,5 @@
 pygame
+sys
+math
+random
+pygbag
